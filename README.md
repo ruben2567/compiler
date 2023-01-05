@@ -1,5 +1,5 @@
-# https---github.com-ruben2567-compilador
-#Compilador de un lenguaje de programación
+
+## Compilador de un lenguaje de programación
 Dentro del código se pueden encontrar ficheros .py que nos permiten realizar las sigueintes acciones:
 <ul>
 <li>anasem.py: realiza el análisis semántico y nos devuelte un árbol con las instrucciones del programa pasado por parámetro </li>
