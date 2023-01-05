@@ -6,5 +6,5 @@ Dentro del código se pueden encontrar ficheros .py que nos permiten realizar la
 <li>anasint.py: comprueba que el programa pasado sigue unas reglas de sintaxis definidas en una gramática </li>
 <li>anasem.py: obtiene las categorías léxicas de un programa pasado por parámetro</li>
 
-</ul>
+</ul><br><br>
 Para mas información, seguir la memoria almacenada con el nombre memoria_procesadores.pdf
